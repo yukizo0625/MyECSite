@@ -21,7 +21,9 @@ img {
 
 .container {
   margin: 0 16px;
+  outline: blue;
 }
+
 
 ul {
   list-style: none;
@@ -192,6 +194,7 @@ footer li + li {
     width: calc(100% - 32px);
     margin: 0 auto;
     max-width: 800px;
+    outline: red;
   }
 
   header form {
