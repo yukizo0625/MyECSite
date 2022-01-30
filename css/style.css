@@ -184,6 +184,7 @@ footer li + li {
 @media (min-width: 600px) {
   .products li {
     width: calc((100% - 32px) / 3);
+    background: skyblue;
   }
 }
 
@@ -195,6 +196,7 @@ footer li + li {
     margin: 0 auto;
     max-width: 800px;
     outline: red;
+    background: pink;
   }
 
   header form {
